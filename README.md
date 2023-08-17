@@ -1,4 +1,4 @@
- # Siirler
+ # Şiirler
  Git ve GitHub'ı [şu](https://www.youtube.com/@SuperSimpleDev) kanaldaki 3 serilik videolarla öğrenmeye    çalışırken, öğrendiklerimi pekiştirmek amacıyla oluşturduğum repo'dur. Bu repo'da sevdiğim şiirleri       listeliyorum.
 
  <br>[Sabahattin Ali - Öyle Günler Gördüm Ki](https://sub1.farmaupdate.com/siir/s/sabahattin_ali/oyle_gunler_gordum_ki.htm)
